@@ -5,5 +5,14 @@
     <link>https://github.com/vaxman14/clipforge-releases</link>
     <description>Updates for ClipForge Recorder for macOS</description>
     <language>en</language>
+    <item>
+      <title>ClipForge Recorder 0.2</title>
+      <pubDate>Wed, 04 Nov 2026 09:43:18 GMT</pubDate>
+      <sparkle:version>202611040939</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/vaxman14/clipforge-releases/releases/tag/recorder-v0.2</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/vaxman14/clipforge-releases/releases/download/recorder-v0.2/ClipForge-Recorder-0.2.dmg" type="application/octet-stream" sparkle:edSignature="eD90kYOLtsYgjnQdwgspCFhNS6t3Uw2To9c612M49thf9jQo0XMErDzmGjGFHY/FVL9Y/zcKfdbKNldZgfIUAw==" length="1775197"/>
+    </item>
   </channel>
 </rss>

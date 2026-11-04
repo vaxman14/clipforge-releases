@@ -41,3 +41,17 @@ sudo apt remove clipforge
 
 User projects and licenses remain under `~/.local/share/clipforge`. Use
 `sudo apt purge clipforge` only when you also intend to remove package-owned configuration.
+
+## ClipForge Recorder for macOS (Apple silicon and Intel)
+
+ClipForge Recorder records scripted app demos on a Mac. Download `ClipForge-Recorder-<version>.dmg`
+from the newest `recorder-v…` release, open it, and drag **ClipForge Recorder** onto **Applications**.
+Requires macOS 15 or later.
+
+After that it updates itself: **ClipForge Recorder > Check for Updates…**, or automatically once a day.
+Updates replace the app in place, so there's nothing to uninstall, and your settings and the Screen
+Recording and Accessibility permissions carry over.
+
+Every build is signed with Developer ID Application: CTF Designs, LLC (9M4ZXKN97F), and each update is
+also signed with the app's own update key, which the app checks before installing.
+[`recorder/appcast.xml`](recorder/appcast.xml) is the update feed the app reads.

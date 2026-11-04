@@ -59,5 +59,14 @@
       <sparkle:releaseNotesLink>https://github.com/vaxman14/clipforge-releases/releases/tag/recorder-v0.5.1</sparkle:releaseNotesLink>
       <enclosure url="https://github.com/vaxman14/clipforge-releases/releases/download/recorder-v0.5.1/ClipForge-Recorder-0.5.1.dmg" type="application/octet-stream" sparkle:edSignature="owciQFPnJnp1m07OmJ79BqyJp1uC21ZsAm4O/IhEYFpkKsy5OxsFZq1qiJKuNh7BAvK5+MLsrYOkqntdcolwCg==" length="2193063"/>
     </item>
+    <item>
+      <title>ClipForge Recorder 0.6.0</title>
+      <pubDate>Wed, 04 Nov 2026 21:50:27 GMT</pubDate>
+      <sparkle:version>202611042149</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/vaxman14/clipforge-releases/releases/tag/recorder-v0.6.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/vaxman14/clipforge-releases/releases/download/recorder-v0.6.0/ClipForge-Recorder-0.6.0.dmg" type="application/octet-stream" sparkle:edSignature="OcEmcHG6GMFphqsFrO4uzhxnP/7RN9Mpgdf7ECRvpdUKNnQBjJHZjzksyULKKwbbxjJIBLTxM9P7lxcAiALoAQ==" length="2219010"/>
+    </item>
   </channel>
 </rss>
